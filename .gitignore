@@ -1,0 +1,14 @@
+/eclipse
+.gradle
+/out
+CREDITS-fml.txt
+forge-1.8-11.14.1.1375-changelog.txt
+gradlew
+gradlew.bat
+LICENSE-fml.txt
+MinecraftForge-Credits.txt
+MinecraftForge-License.txt
+README.txt
+TimelyStonesMod.iml
+TimelyStonesMod.ipr
+TimelyStonesMod.iws

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "timelystonesmod",
+  "name": "Timely Stones Mod",
+  "description": "<Insert Dr. Who Reference Here>",
+  "version": "",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jgamerthepally"],
+  "credits": "FTB_Helper on reddit.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
